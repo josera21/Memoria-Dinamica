@@ -7,7 +7,7 @@
 #include <iostream>
 #include <windows.h>
 using namespace std;
-
+/*
 int main()
 {
 	float *nota,*contApro,*contApla,*contadorAlun;
@@ -44,6 +44,7 @@ int main()
 	delete contApro;
 	return 0;
 }
+*/
 
 
 
